@@ -21,5 +21,5 @@
 >>- 플랫폼 제공자는 거래 수수료로 이윤을 창출할 수 있다.
 
 
-**5. sharEv 작동 과정 YouTube 영상**
+**5. sharEv 작동 과정 YouTube 영상**   
 [![sharEv 동작 과정 비디오](http://img.youtube.com/vi/YR79FD6U-gk/0.jpg)](https://youtu.be/YR79FD6U-gk)
